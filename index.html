@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Color Picker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <h1>Interactive Color Picker</h1>
+
+        <div class="picker-section">
+            <label for="colorPicker">Choose a color:</label>
+            <input type="color" id="colorPicker" value="#6366F1">
+        </div>
+
+        <div id="colorPreview" class="color-preview">Color Preview</div>
+
+        <h2>Color History</h2>
+        <ul id="colorHistory" class="color-history"></ul>
+
+        <button id="clearHistoryButton" class="clear-btn">Clear History</button>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
