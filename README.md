@@ -1,5 +1,8 @@
 # Interactive Color Picker
 
+## Description
+Interactive Color Picker is a simple web tool for students and beginners to practice HTML, CSS, and JavaScript. Pick a color, see it live in a preview, and track your previous selections in a color history. Perfect for learning interactive UI and DOM manipulation.
+
 **Project Type:** Learning / Practice  
 **Target Audience:** Students, beginners learning HTML, CSS, and JavaScript  
 
